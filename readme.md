@@ -9,7 +9,6 @@ Demo is here http://l5start.mrakodol.info/
 * [Application Structure](#feature4)
 * [Troubleshooting](#feature5)
 * [License](#feature6)
-* [Additional information](#feature7)
 * [How Starter site is look like](#feature8)
 
 <a name="feature1"></a>
@@ -134,23 +133,3 @@ OR
 
 This is free software distributed under the terms of the MIT license
 
------
-<a name="feature7"></a>
-## Additional information
-
-Inspired by and based on [andrew13's Laravel-4-Bootstrap-Starter-Site](https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site)
-
-<a name="feature8"></a>
-##How Starter Site is look like
-
-![Index](http://i58.tinypic.com/m5y07.png)
-![Index continue](http://i58.tinypic.com/2z65jyv.png)
-![Register new user](http://i59.tinypic.com/2n9i0cj.png)
-![User login page](http://i59.tinypic.com/2n9i0cj.png)
-![Site photo album](http://i59.tinypic.com/2n9i0cj.png)
-![Site video album](http://i57.tinypic.com/1ggkug.png)
-![Admin dashboard](http://i57.tinypic.com/2r478l5.png)
-![Admin languages](http://i62.tinypic.com/2j4py7l.png)
-![Admin photo albums](http://i57.tinypic.com/346u9as.png)
-![Admin photos](http://i59.tinypic.com/55nody.png)
-![Admin list users](http://i60.tinypic.com/1zen3n.png)
